@@ -1,0 +1,29 @@
+{
+  "version": "0.1.0",
+  "phones": [
+    {
+      "id": "1",
+      "name": "Dummy Phone #1",
+      "description": "Dummiest phone in the galaxy",
+      "tags": ["dummy", "phone", "wow"],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41exDZBI2KL.jpg",
+      "price": "100 €",
+      "color": "black",
+      "system": "iCarrot",
+      "score": "3.6",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "2",
+      "name": "Dummy Phone #2",
+      "description": "Not the dummiest phone in the galaxy",
+      "tags": ["battery", "galaxy"],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/614SVq353IL._SY355_.jpg",
+      "price": "120 €",
+      "color": "steelblue",
+      "system": "Cat Droid",
+      "score": "4.2",
+      "description": "Now that we know who you are, I know who I am. I'm not a mistake! It all makes sense! In a comic, you know how you can tell who the arch-villain's going to be? He's the exact opposite of the hero. And most times they're friends, like you and me! I should've known way back when... You know why, David? Because of the kids. They called me Mr Glass."
+    }
+  ]
+}
