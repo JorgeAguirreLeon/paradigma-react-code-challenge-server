@@ -25,6 +25,11 @@ It's just basic testing with *mocha* and *chai*
 
 ### Production
 
+If you want to put this in a production enviroment (I don't know why you might)
+consider using a process manager for node apps such as `pm2`. Consider also
+binding the app to port 80 (with either `nginx` or giving node access to
+priviledged ports)
+
 ### Docker
 
 Build: `docker build -t <app-name> .`
